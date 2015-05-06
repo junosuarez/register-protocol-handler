@@ -1,7 +1,7 @@
 {
   "name": "register-protocol-handler",
   "author": "jden <jason@denizac.org>",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "register protocol handlers cross-platform",
   "keywords": [
     "registerprotocolhandler",
