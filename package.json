@@ -3,7 +3,13 @@
   "author": "jden <jason@denizac.org>",
   "version": "1.0.0",
   "description": "register protocol handlers cross-platform",
-  "keywords": ["registerprotocolhandler", "protocol", "registry", "handler", "register"],
+  "keywords": [
+    "registerprotocolhandler",
+    "protocol",
+    "registry",
+    "handler",
+    "register"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "mochi"
@@ -13,5 +19,8 @@
   "readmeFilename": "README.md",
   "devDependencies": {
     "mochi": "0.3.0"
+  },
+  "dependencies": {
+    "register-protocol-handler-windows": "0.0.0"
   }
 }
