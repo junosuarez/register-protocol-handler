@@ -1,3 +1,5 @@
+*This package is no longer supported. Please consider an alternative, like [protocol-registry](https://www.npmjs.com/package/protocol-registry)*
+
 # register-protocol-handler
 register protocol handlers cross-platform
 
